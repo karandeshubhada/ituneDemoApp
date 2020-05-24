@@ -1,0 +1,16 @@
+$dokka.format:html
+$dokka.linkExtension:html
+$dokka.location:com.demo.itunesdemoapp.util$toCurrency(kotlin.Double, kotlin.String)com.demo.itunesdemoapp.util/kotlin.-double/to-currency.html
+$dokka.location:com.demo.itunesdemoapp.util$toDate(kotlin.String)com.demo.itunesdemoapp.util/kotlin.-string/to-date.html
+$dokka.location:com.demo.itunesdemoapp.util$toStringDate(java.util.Date)com.demo.itunesdemoapp.util/java.util.-date/to-string-date.html
+com.demo.itunesdemoapp
+com.demo.itunesdemoapp.app.ui.home
+com.demo.itunesdemoapp.source.api
+com.demo.itunesdemoapp.source.boundary
+com.demo.itunesdemoapp.source.cache
+com.demo.itunesdemoapp.source.cache.dao
+com.demo.itunesdemoapp.source.repository
+com.demo.itunesdemoapp.ui
+com.demo.itunesdemoapp.ui.detail
+com.demo.itunesdemoapp.ui.home
+com.demo.itunesdemoapp.util
